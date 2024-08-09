@@ -67,3 +67,4 @@
     <li>Перейдите на страницу <code>aichatnow.ru/webhook.php</code> и подпишитесь на вебхуки по адресу <code>https://aichatnow.ru/avito2.php</code>. Если вы видите сообщение <code>ok true</code>, значит подписка успешна и вебхук работает.</li>
     <li>Перейдите на <code>aichatnow.ru/webhooksubscrib.php</code>, чтобы проверить список подписок (возможно, этот файл уже устарел).</li>
 </ol>
+Если у вас есть вопросы или предложения, пожалуйста, свяжитесь со мной через <a href="https://t.me/Marselito1">Telegram</a>
