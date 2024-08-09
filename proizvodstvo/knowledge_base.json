@@ -1,0 +1,52 @@
+{
+    "Что вы предлагаете": {
+        "file": "franshiza.txt",
+        "timestamp": 1648315600
+    },
+    "Общий вопрос.": {
+        "file": "Obshchiy vopros.\/Obshchiy vopros._1680100867.txt",
+        "timestamp": 1680100867
+    },
+    "Цена": {
+        "file": "proizvodstvo\/tsena_1681118935.txt",
+        "user_text": "Здравствуйте! А сколько стоит технология изготовления?",
+        "timestamp": 1681118935,
+        "chat_id": "u2i-kRo86OguUs1UP06YgHJmrA"
+    },
+    "Опт": {
+        "file": "proizvodstvo\/opt_1680723060.txt",
+        "user_text": "У вас, опт или по штучно ?",
+        "timestamp": 1680723060,
+        "chat_id": "u2i-9duEFpv0voZjLCPWVd5Rhw"
+    },
+    "Прайс": {
+        "file": "proizvodstvo\/prays_1680723091.txt",
+        "user_text": "И еще хотела попросить прайс по поводу порошка кислородного",
+        "timestamp": 1680723091,
+        "chat_id": "u2i-9duEFpv0voZjLCPWVd5Rhw"
+    },
+    "WhatsApp": {
+        "file": "proizvodstvo\/WhatsApp_1680723701.txt",
+        "user_text": "Напишите мне в ватсап.. По поводу обогревателя 89170501591",
+        "timestamp": 1680723701,
+        "chat_id": "u2i-9duEFpv0voZjLCPWVd5Rhw"
+    },
+    "Прайса": {
+        "file": "proizvodstvo\/praysa_1681010697.txt",
+        "user_text": "Здравствуйте. Прайса не было",
+        "timestamp": 1681010697,
+        "chat_id": "u2i-9duEFpv0voZjLCPWVd5Rhw"
+    },
+    "Япрайс": {
+        "file": "proizvodstvo\/yaprays_1681012879.txt",
+        "user_text": "А как им с ать если япрайс не знаю..",
+        "timestamp": 1681012879,
+        "chat_id": "u2i-9duEFpv0voZjLCPWVd5Rhw"
+    },
+    "Конец": {
+        "file": "proizvodstvo\/konets_1681012892.txt",
+        "user_text": "Ну ок ..",
+        "timestamp": 1681012892,
+        "chat_id": "u2i-9duEFpv0voZjLCPWVd5Rhw"
+    }
+}

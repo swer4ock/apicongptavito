@@ -1,0 +1,97 @@
+{
+    "Что вы предлагаете": {
+        "file": "franshiza.txt",
+        "timestamp": 1648315600
+    },
+    "Общий вопрос.": {
+        "file": "Obshchiy vopros.\/Obshchiy vopros._1680100867.txt",
+        "timestamp": 1680100867
+    },
+    "вес": {
+        "file": "poroshok\/ves.txt",
+        "timestamp": 1680109706,
+        "chat_id": "u2i-ZFnEP1_lrVSkF2TjTEQcVA"
+    },
+    "? Фото.": {
+        "file": "poroshok\/? Foto._1680114260.txt",
+        "timestamp": 1680114260,
+        "chat_id": "u2i-rC0IrE_57YXjXwWm4i52fA"
+    },
+    "Казани.": {
+        "file": "poroshok\/Kazani._1680114412.txt",
+        "timestamp": 1680114412,
+        "chat_id": "u2i-rC0IrE_57YXjXwWm4i52fA"
+    },
+    ", а как дела? Как": {
+        "file": "poroshok\/, a kak dela? Kak_1680114448.txt",
+        "timestamp": 1680114448,
+        "chat_id": "u2i-rC0IrE_57YXjXwWm4i52fA"
+    },
+    "Здравствуйте": {
+        "file": "poroshok\/zdravstvuyte_1680177606.txt",
+        "timestamp": 1680177606,
+        "chat_id": "u2i-dSwGCi0BB3IafPTDd1yuRQ"
+    },
+    "расход": {
+        "file": "poroshok\/rashod_1680177761.txt",
+        "timestamp": 1680177761,
+        "chat_id": "u2i-dSwGCi0BB3IafPTDd1yuRQ"
+    },
+    "Цены": {
+        "file": "poroshok\/tseny_1680209585.txt",
+        "timestamp": 1680209585,
+        "chat_id": "u2i-cPR2pOmU0Ia0UDhzP5pilQ"
+    },
+    "Упаковка": {
+        "file": "poroshok\/upakovka_1680209591.txt",
+        "timestamp": 1680209591,
+        "chat_id": "u2i-cPR2pOmU0Ia0UDhzP5pilQ"
+    },
+    "Запрос": {
+        "file": "poroshok\/zapros_1680211391.txt",
+        "timestamp": 1680211391,
+        "chat_id": "u2i-LOWdkCjDGy8ub1wO8HmXRg"
+    },
+    "Привет": {
+        "file": "avitolog\/privet_1680527624.txt",
+        "user_text": "привет",
+        "timestamp": 1680527624,
+        "chat_id": "u2i-Z6_DFJKFdhZ_I1T1crFxtA"
+    },
+    "Сделать": {
+        "file": "avitolog\/sdelat_1680527716.txt",
+        "user_text": "как это сделать?",
+        "timestamp": 1680527716,
+        "chat_id": "u2i-Z6_DFJKFdhZ_I1T1crFxtA"
+    },
+    "Вопрос.": {
+        "file": "avitolog\/vopros._1680527755.txt",
+        "user_text": "\n\nОтвет ИИ-консультанта: Для того, чтобы подключить ИИ к системе Авито, вам необходимо связаться с нашим специалистом по телефону 8(950)3126315 или по электронной почте automaster@list.ru. Рустем с радостью поможет вам подключить ИИ к системе Авито и ответит на все ваши вопросы.",
+        "timestamp": 1680527755,
+        "chat_id": "u2i-Z6_DFJKFdhZ_I1T1crFxtA"
+    },
+    "Цена": {
+        "file": "avitolog\/tsena_1680527785.txt",
+        "user_text": "Какая цена?",
+        "timestamp": 1680527785,
+        "chat_id": "u2i-Z6_DFJKFdhZ_I1T1crFxtA"
+    },
+    "Автоответчик": {
+        "file": "avitolog\/avtootvetchik_1680527907.txt",
+        "user_text": "Какой смысл от тебя если ты отвечаешь как автоответчик и даже не продаешь мне ничего",
+        "timestamp": 1680527907,
+        "chat_id": "u2i-Z6_DFJKFdhZ_I1T1crFxtA"
+    },
+    "Предложить.": {
+        "file": "avitolog\/predlozhit._1680528372.txt",
+        "user_text": "и что можешь мне предложить",
+        "timestamp": 1680528372,
+        "chat_id": "u2i-Z6_DFJKFdhZ_I1T1crFxtA"
+    },
+    "Тест": {
+        "file": "avitolog\/test_1680883126.txt",
+        "user_text": "тест",
+        "timestamp": 1680883126,
+        "chat_id": "u2i-Z6_DFJKFdhZ_I1T1crFxtA"
+    }
+}

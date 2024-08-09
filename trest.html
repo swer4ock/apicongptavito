@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Просмотр файловой системы</title>
+</head>
+<body>
+  <ul id="fileList"></ul>
+
+  <script>
+    window.requestFileSystem = window.requestFileSystem || window.webkitRequestFileSystem;
+
+    function errorHandler(err) {
+      console.error('Ошибка:', err);
+    }
+
+    function listFiles() {
+      window.requestFileSystem(window.TEMPORARY, 1024 * 1024, function(fs) {
+        var dirReader = fs.root.createReader();
+        dirReader.readEntries(function(entries) {
+          var fileList = document.getElementById('fileList');
+          fileList.innerHTML = '';
+          entries.forEach(function(entry) {
+            var listItem = document.createElement('li');
+            listItem.appendChild(document.createTextNode(entry.name));
+            fileList.appendChild(listItem);
+          });
+        }, errorHandler);
+      }, errorHandler);
+    }
+
+    listFiles();
+  </script>
+</body>
+</html>
